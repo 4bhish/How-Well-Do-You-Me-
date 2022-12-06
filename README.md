@@ -6,4 +6,5 @@ CLI quiz app (How well do you know me?).
 - Answer the question and check the score.
 ### Tech Used:
 - nodeJS
+
 Don't forget to leave a ⭐ if you found this useful
