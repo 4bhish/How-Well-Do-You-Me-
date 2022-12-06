@@ -1,4 +1,4 @@
-# How-Well-Do-You-Me-
+# How-Well-Do-You-know-Me-
 CLI quiz app (How well do you know me?).
 
 ## How to use:
