@@ -39,8 +39,16 @@ var Questions = [{
   answer: "kanye west"
 },
 {
-  question: "Where he lives? ",
+  question: "where he lives? ",
   answer: "solapur"
+},
+{
+  question: "which anime do Abhishek watch most?",
+  answer: "one piece"
+},
+{
+  question: "what is Abhisheks favorite hobby?",
+  answer: "poetry"
 }];
 
 for (var i = 0; i < Questions.length; i++) {
@@ -49,7 +57,7 @@ for (var i = 0; i < Questions.length; i++) {
 }
 
 if (score > 1) {
-  console.log("You did good,Thank you for playing");
+  console.log(`You did good,You have scored ${score} marks out 6 Thank you for playing !`);
 
 }
 else {
